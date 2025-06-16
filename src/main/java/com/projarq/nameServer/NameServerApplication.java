@@ -1,4 +1,4 @@
-package com.imposto.nameServer;
+package com.projarq.nameServer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
